@@ -60,7 +60,8 @@ public class ProtocolConstants
             ProtocolConstants.MINECRAFT_1_14_2,
             ProtocolConstants.MINECRAFT_1_14_3,
             ProtocolConstants.MINECRAFT_1_14_4,
-            ProtocolConstants.MINECRAFT_1_15
+            ProtocolConstants.MINECRAFT_1_15,
+            ProtocolConstants.MINECRAFT_1_15_1
     );
 
     public enum Direction
